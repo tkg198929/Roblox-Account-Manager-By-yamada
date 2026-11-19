@@ -9,4 +9,5 @@ Roblox Account Manager By yamadaは、ユーザーのアカウント情報、Coo
 お問い合わせはDiscord→https://discord.gg/s8EQ4cbQgB
 
 またはメールアドレス→yamadayuuk.32@gmail.comまでお願いします。
-<img width="1289" height="744" alt="スクリーンショット 2026-10-27 225455" src="https://github.com/user-attachments/assets/2c1e8413-c119-4563-b9c8-15b09c106d12" />
+<img width="1303" height="745" alt="image" src="https://github.com/user-attachments/assets/1da024f9-ed0f-433b-8280-7eeccdc9b384" />
+
