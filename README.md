@@ -5,6 +5,7 @@ Roblox Account Manager By yamadaは、ユーザーのアカウント情報、Coo
 アカウントデータはユーザーのPC上に保存されます。
 利用者数を計測するためのテレメトリやトラッキングも使用しません｡
 アップデート確認では、GitHub上の公開Release情報のみを確認します。
+
 お問い合わせはDiscord→https://discord.gg/s8EQ4cbQgB
 またはメールアドレス→yamadayuuk.32@gmail.com
 までお願いします。
